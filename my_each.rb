@@ -4,7 +4,7 @@ def my_each(arr)
     yield (arr[i])
     i += 1 
     end
-  array 
+  arr 
 end
 
 my_each([1,2,3,4]) do |num|
