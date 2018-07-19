@@ -7,6 +7,6 @@ def my_each(arr)
   array 
 end
 
-n.times my_each([1,2,3,4]) do |num|
+my_each([1,2,3,4]) do |num|
 end
   
