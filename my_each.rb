@@ -7,6 +7,6 @@ def my_each(arr)
   arr 
 end
 
-my_each([1,2,3,4]) do |num|
+p my_each([1,2,3,4]) do |num|
 end
   
