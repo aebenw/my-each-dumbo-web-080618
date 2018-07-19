@@ -1,7 +1,8 @@
 def my_each(arr)
+  new = []
   i = 0 
   while i < arr.length
-  return arr[i]
+  new << arr[i]
   i += 1 
 end
 end
